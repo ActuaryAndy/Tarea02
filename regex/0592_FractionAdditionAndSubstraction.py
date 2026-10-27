@@ -1,5 +1,8 @@
+# Complejidad temporal: O(n)
+# Complejidad espacial: O(n)
+# Justificación: n es la longitud de la cadena de la expresión, 
+# la cual se procesa linealmente extrayendo los tokens en una lista que consume espacio proporcional a la entrada.
 import re
-
 
 class Solution:
 

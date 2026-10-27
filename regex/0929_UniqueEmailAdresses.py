@@ -1,3 +1,8 @@
+# Complejidad temporal: O(n)
+# Complejidad espacial: O(n)
+# Justificación: n es el número de elementos en la lista de correos.
+
+
 import re
 
 

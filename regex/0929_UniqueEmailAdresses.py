@@ -18,3 +18,4 @@ class Solution(object):
       correos_unicos.add(correo_normalizado)
 
     return len(correos_unicos)
+  
